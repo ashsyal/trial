@@ -1,2 +1,2 @@
 # trial
-working on a few items
+just practicing a few git items
